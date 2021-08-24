@@ -1,0 +1,18 @@
+{
+  "name": "node-es-features",
+  "version": "1.0.0",
+  "description": "Testing which features of different ES versions are supported by Node.js out-of-the-box",
+  "main": "src/index.js",
+  "repository": "https://github.com/github:maacpiash/node-es-features",
+  "author": "Mohammad Abdul Ahad Chowdhury <ahad@maacpiash.com> (https://www.maacpiash.com)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "es7": "node src/es7.js",
+    "es8": "node src/es8.js",
+    "es9": "node src/es9.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
