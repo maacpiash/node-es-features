@@ -26,6 +26,7 @@
 // sources:
 //   - [1] https://www.freecodecamp.org/news/86903c5cab70
 //   - [2] https://www.tutorialspoint.com/es6/es7_newfeatures.htm
+//   - [3] https://betterprogramming.pub/a41b7aead589
 
 /* *** *** *** array.includes *** *** *** */
 console.log([1, 2, 3].includes(2))

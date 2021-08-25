@@ -24,8 +24,9 @@
  */
 // ES8, aka ES2017
 // sources:
-//   - [1] https://www.freecodecamp.org/news/7506210a1a22
-//   - [2] https://www.tutorialspoint.com/es6/es8_newfeatures.htm
+//   - [4] https://www.freecodecamp.org/news/7506210a1a22
+//   - [5] https://www.tutorialspoint.com/es6/es8_newfeatures.htm
+//   - [6] https://betterprogramming.pub/877f8406e770
 
 const stateCapitals = {
   NSW: 'Sydney',

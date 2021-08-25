@@ -106,3 +106,23 @@ Testing which features of different ES versions are supported by Node.js out-of-
     </tr>
   </tbody>
 </table>
+
+## References
+
+### ES7, _aka_ ES2016
+
+- [1] https://www.freecodecamp.org/news/86903c5cab70
+- [2] https://www.tutorialspoint.com/es6/es7_newfeatures.htm
+- [3] https://betterprogramming.pub/a41b7aead589
+
+### ES8, _aka_ ES2017
+
+- [4] https://www.freecodecamp.org/news/7506210a1a22
+- [5] https://www.tutorialspoint.com/es6/es8_newfeatures.htm
+- [6] https://betterprogramming.pub/877f8406e770
+
+### ES9, _aka_ ES2018
+
+- [7] https://hub.packtpub.com/whats-new-in-ecmascript-2018
+- [8] https://www.tutorialspoint.com/es6/es9_newfeatures.htm
+- [9] https://betterprogramming.pub/30fda8ac50fa

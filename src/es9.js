@@ -24,8 +24,9 @@
  */
 // ES9, aka ES2018
 // sources:
-//   - [1] https://hub.packtpub.com/whats-new-in-ecmascript-2018
-//   - [2] https://www.tutorialspoint.com/es6/es9_newfeatures.htm
+//   - [7] https://hub.packtpub.com/whats-new-in-ecmascript-2018
+//   - [8] https://www.tutorialspoint.com/es6/es9_newfeatures.htm
+//   - [9] https://betterprogramming.pub/30fda8ac50fa
 
 /* *** *** *** asynchronous generators and iteration *** *** *** */
 
