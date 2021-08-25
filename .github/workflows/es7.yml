@@ -2,7 +2,7 @@ name: Testing ES7
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +10,7 @@ jobs:
       matrix:
         node-version: [12.x, 14.x, 16.x]
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@main
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
