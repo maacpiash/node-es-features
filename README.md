@@ -2,6 +2,12 @@
 
 Testing which features of different ES versions are supported by Node.js out-of-the-box.
 
+## Concepts
+
+- For any particular version of Node.js: `Support for all the features of any version of ES` + `Support for the new features in a newer version of ES` = `Support for all the features of the newer version of ES`.
+
+- For any particular version of ES: If any version of Node.js supports one of its features, then it is also supported by a newer version of Node.js.
+
 ## Compatibilty matrix
 
 <table>
