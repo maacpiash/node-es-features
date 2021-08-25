@@ -72,7 +72,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
       </td>
     </tr>
     <tr>
-      <td>ES9 (ES2017)</td>
+      <td>ES9 (ES2018)</td>
       <td>
         <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es9-node.js-12.yml">
           <img
