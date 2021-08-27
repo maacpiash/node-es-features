@@ -123,6 +123,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
 
 ### ES2018, _aka_ ES2018
 
-- [7] https://hub.packtpub.com/whats-new-in-ecmascript-2018
-- [8] https://www.tutorialspoint.com/es6/es9_newfeatures.htm
-- [9] https://betterprogramming.pub/30fda8ac50fa
+- [7] https://v8.dev/features/tags/es2018
+- [8] https://hub.packtpub.com/whats-new-in-ecmascript-2018
+- [9] https://www.tutorialspoint.com/es6/es9_newfeatures.htm
+- [10] https://betterprogramming.pub/30fda8ac50fa
