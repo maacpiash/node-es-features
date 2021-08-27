@@ -26,7 +26,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
     <tr>
       <td>ES2016</td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es7-node.js-12.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2016-node.js-12.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2016%20on%20Node.js%2012.x?style=flat-square"
             alt="ES2016 on Node.js v12.x"
@@ -34,7 +34,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es7-node.js-14.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2016-node.js-14.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2016%20on%20Node.js%2014.x?style=flat-square"
             alt="ES2016 on Node.js v14.x"
@@ -42,7 +42,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es7-node.js-16.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2016-node.js-16.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2016%20on%20Node.js%2016.x?style=flat-square"
             alt="ES2016 on Node.js v16.x"
@@ -53,7 +53,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
     <tr>
       <td>ES2017</td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es8-node.js-12.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2017-node.js-12.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2017%20on%20Node.js%2012.x?style=flat-square"
             alt="ES2017 on Node.js v12.x"
@@ -61,7 +61,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es8-node.js-14.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2017-node.js-14.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2017%20on%20Node.js%2014.x?style=flat-square"
             alt="ES2017 on Node.js v14.x"
@@ -69,7 +69,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es8-node.js-16.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2017-node.js-16.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2017%20on%20Node.js%2016.x?style=flat-square"
             alt="ES2017 on Node.js v16.x"
@@ -80,7 +80,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
     <tr>
       <td>ES2018</td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es9-node.js-12.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2018-node.js-12.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2018%20on%20Node.js%2012.x?style=flat-square"
             alt="ES2018 on Node.js v12.x"
@@ -88,7 +88,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es9-node.js-14.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2018-node.js-14.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2018%20on%20Node.js%2014.x?style=flat-square"
             alt="ES2018 on Node.js v14.x"
@@ -96,7 +96,7 @@ Testing which features of different ES versions are supported by Node.js out-of-
         </a>
       </td>
       <td>
-        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es9-node.js-16.yml">
+        <a href="https://github.com/maacpiash/node-es-features/actions/workflows/es2018-node.js-16.yml">
           <img
             src="https://img.shields.io/github/workflow/status/maacpiash/node-es-features/ES2018%20on%20Node.js%2016.x?style=flat-square"
             alt="ES2018 on Node.js v16.x"
@@ -109,19 +109,19 @@ Testing which features of different ES versions are supported by Node.js out-of-
 
 ## References
 
-### ES2016, _aka_ ES2016
+### ES2016, _aka_ ES7
 
 - [1] https://www.freecodecamp.org/news/86903c5cab70
 - [2] https://www.tutorialspoint.com/es6/es7_newfeatures.htm
 - [3] https://betterprogramming.pub/a41b7aead589
 
-### ES2017, _aka_ ES2017
+### ES2017, _aka_ ES8
 
 - [4] https://www.freecodecamp.org/news/7506210a1a22
 - [5] https://www.tutorialspoint.com/es6/es8_newfeatures.htm
 - [6] https://betterprogramming.pub/877f8406e770
 
-### ES2018, _aka_ ES2018
+### ES2018, _aka_ ES9
 
 - [7] https://v8.dev/features/tags/es2018
 - [8] https://hub.packtpub.com/whats-new-in-ecmascript-2018
