@@ -8,9 +8,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "es7": "node src/es7.js",
-    "es8": "node src/es8.js",
-    "es9": "node src/es9.js"
+    "es2016": "node src/es2016.js",
+    "es2017": "node src/es2017.js",
+    "es2018": "node src/es2018.js"
   },
   "devDependencies": {
     "prettier": "^2.3.2"

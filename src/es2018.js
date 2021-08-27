@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-// ES9, aka ES2018
+// ES2018, aka ES9
 // sources:
 //   - [7] https://hub.packtpub.com/whats-new-in-ecmascript-2018
 //   - [8] https://www.tutorialspoint.com/es6/es9_newfeatures.htm

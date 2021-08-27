@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-// ES7, aka ES2016
+// ES2016, aka ES7
 // sources:
 //   - [1] https://www.freecodecamp.org/news/86903c5cab70
 //   - [2] https://www.tutorialspoint.com/es6/es7_newfeatures.htm

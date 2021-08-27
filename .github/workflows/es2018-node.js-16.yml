@@ -1,4 +1,4 @@
-name: ES9 on Node.js 16.x
+name: ES2018 on Node.js 16.x
 on:
   push:
     branches:
@@ -15,5 +15,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Test compatibility of ES9 on Node.js 16.x
-        run: yarn es9
+      - name: Test compatibility of ES2018 on Node.js 16.x
+        run: yarn es2018
